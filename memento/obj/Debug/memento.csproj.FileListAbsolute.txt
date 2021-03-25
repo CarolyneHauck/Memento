@@ -1,0 +1,5 @@
+/Users/carolyne.carreira/Projects/memento/memento/bin/Debug/memento.exe
+/Users/carolyne.carreira/Projects/memento/memento/bin/Debug/memento.pdb
+/Users/carolyne.carreira/Projects/memento/memento/obj/Debug/memento.csprojAssemblyReference.cache
+/Users/carolyne.carreira/Projects/memento/memento/obj/Debug/memento.exe
+/Users/carolyne.carreira/Projects/memento/memento/obj/Debug/memento.pdb

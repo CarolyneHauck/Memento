@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BDDD102C-E306-4F83-B0A8-F1B40C743740}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="memento/Caretaker.cs">
+    <Files>
+      <File FileName="memento/Program.cs" Line="7" Column="1" />
+      <File FileName="memento/Originator.cs" Line="2" Column="24" />
+      <File FileName="memento/ConcreteMemento.cs" Line="26" Column="33" />
+      <File FileName="memento/Caretaker.cs" Line="34" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="memento" expanded="True">
+            <Node name="memento" expanded="True">
+              <Node name="Caretaker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.memento PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
